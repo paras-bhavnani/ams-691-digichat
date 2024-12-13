@@ -1,6 +1,6 @@
-# DigiChat: AI-Powered Personalized Nutrition Assistant
+# DigiDiet: AI-Powered Personalized Nutrition Assistant
 
-DigiChat is a next-generation chatbot designed to deliver precise nutritional insights and health suggestions by leveraging advanced AI models and integrations. It seamlessly integrates with the Nutrition endpoint from API Ninjas, the Edamam Meal Planning API, and a mock FitBit API, providing accurate nutritional data, meal plans, and personalized health recommendations.
+DigiDiet is a next-generation chatbot designed to deliver precise nutritional insights and health suggestions by leveraging advanced AI models and integrations. It seamlessly integrates with the Nutrition endpoint from API Ninjas, the Edamam Meal Planning API, and a mock FitBit API, providing accurate nutritional data, meal plans, and personalized health recommendations.
 
 ## Features
 1. **Nutritional Information Retrieval:** Retrieves accurate nutritional data for a wide range of food items using the Nutrition endpoint of API Ninjas.
@@ -12,13 +12,13 @@ DigiChat is a next-generation chatbot designed to deliver precise nutritional in
 
 ## Setup and Installation
 
-To get DigiChat up and running, follow these steps:
+To get DigiDiet up and running, follow these steps:
 
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/paras-bhavnani/ams-691-digichat.git
-    cd DigiChat
+    git clone https://github.com/paras-bhavnani/ams-691-digidiet.git
+    cd DigiDiet
     ```
 
 2. **Set Up a Virtual Environment (Optional)**
@@ -65,12 +65,12 @@ Once the chatbot is running, you can start interacting with it. Here's an exampl
 What is the TDEE of a 30-year-old man, who is 180 cm tall, weighs 80 kg, and exercises 3 times a week?
 ```
 
-DigiChat will generate a meal plan based on the information provided and also inform the person's BMI.
+DigiDiet will generate a meal plan based on the information provided and also inform the person's BMI.
 
 ## Project Structure
 
 ### Main Script
-- **`run_assistant.py`**: Main script to run the DigiChat assistant.
+- **`run_assistant.py`**: Main script to run the DigiDiet assistant.
 
 ### Core Functionality
 - **`assistant/`**: Directory containing the core assistant functionality.
@@ -84,4 +84,4 @@ DigiChat will generate a meal plan based on the information provided and also in
 
 ## License
 
-DigiChat is open-source software licensed under the MIT license.
+DigiDiet is open-source software licensed under the MIT license.
