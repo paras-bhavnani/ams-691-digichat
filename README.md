@@ -17,7 +17,7 @@ To get DigiChat up and running, follow these steps:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/[YourUsername]/ams-691-digichat.git
+    git clone https://github.com/paras-bhavnani/ams-691-digichat.git
     cd DigiChat
     ```
 
